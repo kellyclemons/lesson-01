@@ -99,3 +99,7 @@ searchBtn.addEventListener('click', function(){
 // pass in a string of event you want to listen to, and the function you want to run when that event is fired
 // can have multiples items respond to the click event
 // none of this code runs automatically, we have to wait for it
+
+function searchForPlanet(name) {
+
+}
